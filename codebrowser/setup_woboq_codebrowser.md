@@ -69,6 +69,6 @@ This setup doesn't require `compile_commands.json` file.
 `codebrowser_indexgenerator -p MyProject:$PWD ./devcode`
 
 # Reference
-https://woboq.com/codebrowser.html
+https://woboq.com/codebrowser.html<br>
 https://github.com/KDAB/codebrowser
 
