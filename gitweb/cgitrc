@@ -1,0 +1,86 @@
+#
+# cgit config
+# see cgitrc(5) for details
+# /etc/cgitrc
+#
+
+root-title=__FULL_NAME__
+root-desc=Git repositories.
+
+css=/cgit-css/cgit.css
+logo=/cgit-css/cgit.png
+favicon=/cgit-css/cgit.png
+
+#Highlight source code with python pygments-based highligher
+source-filter=/usr/lib/cgit/filters/syntax-highlighting.py
+
+#Format markdown, restructuredtext, manpages, text files, and html files
+about-filter=/usr/lib/cgit/filters/about-formatting.sh
+
+##
+## Search for these files in the root of the default branch of repositories
+## for coming up with the about page:
+##
+readme=:README
+readme=:readme
+readme=:README.md
+readme=:readme.md
+readme=:README.mkd
+readme=:readme.mkd
+readme=:README.rst
+readme=:readme.rst
+readme=:README.txt
+readme=:readme.txt
+readme=:README.htm
+readme=:readme.htm
+readme=:README.html
+readme=:readme.html
+readme=:INSTALL
+readme=:install
+readme=:INSTALL.md
+readme=:install.md
+readme=:INSTALL.mkd
+readme=:install.mkd
+readme=:INSTALL.rst
+readme=:install.rst
+readme=:INSTALL.txt
+readme=:install.txt
+readme=:INSTALL.htm
+readme=:install.htm
+readme=:INSTALL.html
+readme=:install.html
+
+remove-suffix=1
+branch-sort=age
+max-blob-size=4096
+enable-git-config=1
+enable-index-links=1
+snapshots=tar.gz zip
+side-by-side-diffs=0
+max-commit-count=1024
+enable-commit-graph=1
+enable-log-linecount=1
+enable-log-filecount=1
+
+mimetype.png=image/png
+mimetype.gif=image/gif
+mimetype.html=text/html
+mimetype.jpg=image/jpeg
+mimetype.jpeg=image/jpeg
+mimetype.svg=image/svg+xml
+mimetype.pdf=application/pdf
+mimetype-file=/etc/mime.types
+
+scan-path=/home/git/projects
+project-list=/home/git/cgit-repos.cfg
+
+#repo.url=__PROJECT_NAME__
+#repo.owner=__OWNER_FULLNAME__
+#repo.path=/home/git/__project_/.git
+#repo.desc=__PROJECT_DESCRIPTION__
+
+local-time=1
+enable-http-clone=1
+clone-prefix=http://localhost/cgit
+
+#EOF
