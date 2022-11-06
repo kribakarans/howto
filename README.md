@@ -11,3 +11,6 @@ The repository is built to provide clear instructions on how to set up the follo
 ### Web based Git clients
 1. [CGit](https://github.com/kribakarans/howto/blob/master/gitweb/setup_cgit.md)
 2. [Gitweb](https://github.com/kribakarans/howto/blob/master/gitweb/setup_gitweb.md)
+
+### Ubuntu desktop environments
+. [Setup Ubuntu minimal desktop environments](https://github.com/kribakarans/howto/blob/master/desktops/setup_ubuntu_desktops.md)
