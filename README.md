@@ -2,6 +2,9 @@
 
 The repository is built to provide clear instructions on how to set up the following items. Raise an issue if you face any problems.
 
+### Setup Chroot
+ * [Source packages to Chroot](https://github.com/kribakarans/howto/blob/master/chroot/install_source_to_chroot.md)
+
 ### Web based source code browsers
 1. [Codebrowser](https://github.com/kribakarans/howto/blob/master/codebrowser/setup_codebrowser.md)
 2. [Doxygen](https://github.com/kribakarans/howto/blob/master/codebrowser/doxygen.cfg)
