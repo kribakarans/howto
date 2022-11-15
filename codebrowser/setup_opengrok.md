@@ -96,16 +96,17 @@ Switch to sudo mode `sudo -s` and follow the below steps.
 3. Add your projects source in `/opengrok/src` in host machine
 
 4. Create docker compose file
+
+	`cat > docker-compose.yaml`
 	```
-	cat > docker-compose.yaml
 	version: "3"
 	services:
 	opengrok:
 		container_name: opengrok
 		image: opengrok/docker:latest        # pull the latest docker image from the cloud
 		ports:
-		- "9090:8080/tcp"                    # forward the container traffics at the port 8080 to the host machine to the port 9090
-		environment:
+		- "9090:8080/tcp"                    # forward the container traffics at the port 8080 to the
+		environment:                         # - host machine to the port 9090
 		SYNC_PERIOD_MINUTES: '1'             # sync repo for every one minutes
 		volumes:                             # volumes store your data between container upgrades
 		- '/opengrok/src/:/opengrok/src/'    # source code
