@@ -105,7 +105,7 @@ Switch to sudo mode `sudo -s` and follow the below steps.
 	    container_name: opengrok
 	    image: opengrok/docker:latest            # pull the latest docker image from the cloud
 	    ports:
-	      - "8080:8080/tcp"                      # forward the container traffics at the port 8080 to the
+	      - "9090:8080/tcp"                      # forward the container traffics at the port 8080 to the
 	    environment:                             # - host machine to the port 9090
 	      SYNC_PERIOD_MINUTES: '10'              # sync repo for every one minutes
 	    volumes:                                 # volumes store your data between container upgrades
