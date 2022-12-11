@@ -2,6 +2,10 @@
 
 The repository is built to provide clear instructions on how to set up the following items. Raise an issue if you face any problems.
 
+### Code coverage
+ 1. [Code coverage with Gcov](https://github.com/kribakarans/howto/blob/master/coverage/gcov.md)
+ 2. [Code coverage with Gcovr](https://github.com/kribakarans/howto/blob/master/coverage/gcovr.md)
+
 ### Setup Chroot
  * [Source packages to Chroot](https://github.com/kribakarans/howto/blob/master/chroot/install_source_to_chroot.md)
 
