@@ -1,4 +1,4 @@
-# How to generate GCC code coverage reports
+# How to do code coverage with `Gcov` tool
 
 ## 1. Prerequisites
 GCC comes with a code coverage tool called `gcov`. Install required tools with `sudo apt install gcc lcov`.

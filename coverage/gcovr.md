@@ -1,4 +1,4 @@
-# How to generate GCC code coverage reports
+# How to do code coverage with `Gcovr` tool
 
 ## 1. Prerequisites
 Install Gcovr tool with `sudo apt install gcovr`
