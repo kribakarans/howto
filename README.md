@@ -12,6 +12,9 @@ The repository is built to provide clear instructions on how to set up the follo
 ### Setup Chroot
  * [Source packages to Chroot](https://github.com/kribakarans/howto/blob/master/chroot/install_source_to_chroot.md)
 
+### Setup Redmine
+ * [Redmine with SQLite3](https://github.com/kribakarans/howto/blob/master/redmine/install_redmine_with_sqlite3.md)
+
 ### Web based source code browsers
  1. [Codebrowser](https://github.com/kribakarans/howto/blob/master/codebrowser/setup_codebrowser.md)
  2. [Doxygen](https://github.com/kribakarans/howto/blob/master/codebrowser/doxygen.cfg)
