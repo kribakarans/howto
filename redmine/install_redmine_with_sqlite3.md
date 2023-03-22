@@ -43,8 +43,8 @@ Now the file looks as below
 ```
 <IfModule mod_passenger.c>
   PassengerDefaultUser www-data
-  PassengerRoot /usr
-  PassengerRuby /usr/bin/ruby
+  PassengerRoot /usr/lib/ruby/vendor_ruby/phusion_passenger/locations.ini
+  PassengerDefaultRuby /usr/bin/ruby
 </IfModule>
 ```
 Add the below contents in `/etc/apache2/sites-available/000-default.conf`
