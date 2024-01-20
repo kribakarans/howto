@@ -1,6 +1,10 @@
-# How to set things up !!!
+# How to set things up:
 
-The repository is built to provide clear instructions on how to set up the following items. Raise an issue if you face any problems.
+The repository is built to provide clear instructions on how to set up the following items.
+
+### Boot repair
+ 1. [Recover Ubuntu Bootloader](https://github.com/kribakarans/howto/blob/master/bootrepair/recover_ubuntu_bootloader.md)
+ 2. [Recover Windows Bootloader](https://github.com/kribakarans/howto/blob/master/bootrepair/recover_windows_bootloader.md)
 
 ### Code coverage
  1. [Code coverage with Gcov](https://github.com/kribakarans/howto/blob/master/coverage/gcov.md)
