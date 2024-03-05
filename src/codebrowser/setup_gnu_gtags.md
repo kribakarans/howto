@@ -28,4 +28,3 @@ Follow the below steps in the root directory of the project source code.
 	Python2 http/cgi server
 	Serving HTTP on 127.0.0.1 port 8000 ...
 	```
-

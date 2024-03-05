@@ -68,11 +68,11 @@ service apache2 restart
 ```
 
 ### Access the Redmine from the local host
-Explore the Redmine at http://localhost/redmine
+Explore the Redmine at <http://localhost/redmine>
 
 ### Weblinks:
 [Email setup](https://www.redmine.org/projects/redmine/wiki/howto_install_redmine_on_ubuntu_step_by_step#Email-setup)  
 [Backing up Redmine Database](https://www.redmine.org/projects/redmine/wiki/howto_install_redmine_on_ubuntu_step_by_step#Backing-up-Redmine)  
-https://www.redmine.org/projects/redmine/wiki/RedmineInstall
-https://www.redmine.org/projects/redmine/wiki/howto_install_redmine_on_ubuntu_step_by_step
-https://www.redmine.org/projects/redmine/wiki/HowTo_Install_Redmine_50x_on_Ubuntu_2004_with_Apache2
+<https://www.redmine.org/projects/redmine/wiki/RedmineInstall>
+<https://www.redmine.org/projects/redmine/wiki/howto_install_redmine_on_ubuntu_step_by_step>
+<https://www.redmine.org/projects/redmine/wiki/HowTo_Install_Redmine_50x_on_Ubuntu_2004_with_Apache2>

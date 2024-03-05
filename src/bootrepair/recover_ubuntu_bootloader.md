@@ -18,7 +18,6 @@ efibootmgr # For Linux
 bcdedit    # For Windows
 ```
 ### Weblinks:
-https://github.com/kribakarans/bootrepair.git
-https://www.youtube.com/watch?v=WVqnfNheRj8
-https://askubuntu.com/questions/485261/change-boot-order-using-efibootmgr
-
+<https://github.com/kribakarans/bootrepair.git><br>
+<https://www.youtube.com/watch?v=WVqnfNheRj8><br>
+<https://askubuntu.com/questions/485261/change-boot-order-using-efibootmgr>

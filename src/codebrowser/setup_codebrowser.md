@@ -42,7 +42,7 @@
 
 4. Start the web-server `python -m http.server 8000`
 
-5. Explore the source code at `http://localhost:8000`
+5. Explore the source code at <http://localhost:8000>
 
 # Setup without bear tool
 This setup doesn't require `compile_commands.json` file.
@@ -62,13 +62,12 @@ This setup doesn't require `compile_commands.json` file.
 6. Copy the HTML assets `data` to the parent directory
 	- `sudo cp  /usr/share/woboq/data/ /var/www/html`
 
-7. Explore your project in browser at `http://localhost/output`
+7. Explore your project in browser at <http://localhost/output>
 
 # Example
 `codebrowser_generator -o ./devcode -p MyProject:$PWD $PWD --`<br>
 `codebrowser_indexgenerator -p MyProject:$PWD ./devcode`
 
 # Reference
-https://woboq.com/codebrowser.html<br>
-https://github.com/KDAB/codebrowser
-
+<https://woboq.com/codebrowser.html><br>
+<https://github.com/KDAB/codebrowser>

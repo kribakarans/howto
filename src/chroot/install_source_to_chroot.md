@@ -26,6 +26,6 @@ Install your package binaries to the chroot directory to test in isolated an env
 	sudo chroot ./chroot/ bash
 
 ### Reference
-https://help.ubuntu.com/community/BasicChroot/<br>
-https://www.linode.com/docs/guides/use-chroot-for-testing-on-ubuntu/<br>
-https://askubuntu.com/questions/105840/install-program-from-source-to-chroot-env/<br>
+<https://help.ubuntu.com/community/BasicChroot><br>
+<https://www.linode.com/docs/guides/use-chroot-for-testing-on-ubuntu><br>
+<https://askubuntu.com/questions/105840/install-program-from-source-to-chroot-env><br>

@@ -10,6 +10,6 @@
 	sudo a2enconf cgit
 	sudo systemctl restart apache2
 	```
-3. Explore your git repositories at http://localhost/cgit
+3. Explore your git repositories at <http://localhost/cgit>
 
-Take a look [here](https://raw.githubusercontent.com/kribakarans/howto/master/gitweb/cgitrc) for sample Cgit config file and place it in '/etc' directory.
+Take a look [here](https://raw.githubusercontent.com/kribakarans/howto/master/src/gitweb/cgitrc) for sample Cgit config file and place it in '/etc' directory.

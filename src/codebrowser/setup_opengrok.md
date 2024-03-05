@@ -117,7 +117,7 @@ Switch to sudo mode `sudo -s` and follow the below steps.
 
 	`docker-compose up -d`
 
-6. Explore your project source at http://localhost:9090 in host machine
+6. Explore your project source at <http://localhost:9090> in host machine
 
 7. Index new sources
 	```
@@ -133,4 +133,3 @@ Switch to sudo mode `sudo -s` and follow the below steps.
 8. Explore the container
 
 	`docker exec -it opengrok bash`
-

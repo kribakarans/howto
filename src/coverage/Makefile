@@ -1,4 +1,4 @@
-
+```make
 # GNU Makefile
 
 ELFNAME  :=  hello
@@ -83,3 +83,4 @@ gcov_debug:
 .PHONY: all clean coverage
 
 #EOF
+```
