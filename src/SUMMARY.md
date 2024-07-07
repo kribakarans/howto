@@ -37,6 +37,11 @@
 - [CGit](gitweb/setup_cgit.md)
 - [Gitweb](gitweb/setup_gitweb.md)
 
+# OpenWrt
+
+- [OpenWrt Builder](openwrt/OpenWrt.md)
+- [PrplWrt Builder](openwrt/PrplWrt.md)
+
 # Redmine
 
 - [Redmine with SQLite3](redmine/install_redmine_with_sqlite3.md)

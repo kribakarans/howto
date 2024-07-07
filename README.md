@@ -13,6 +13,10 @@ The repository is built to provide clear instructions on how to set up the follo
 ### Docker
  1. [Build Multi-Architecture images](src/docker/multi-arch-image.md)
 
+### OpenWrt
+ 1. [OpenWrt Builder](./src/openwrt/OpenWrt.md)
+ 2. [PrplWrt Builder](./src/openwrt/PrplWrt.md)
+
 ### Setup Chroot
  * [Source packages to Chroot](src/chroot/install_source_to_chroot.md)
 
