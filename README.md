@@ -33,5 +33,8 @@ The repository is built to provide clear instructions on how to set up the follo
  1. [CGit](src/gitweb/setup_cgit.md)
  2. [Gitweb](src/gitweb/setup_gitweb.md)
 
+### WhatsApp
+ 1. [Decrypting WhatsApp Database](src/whatsapp/Decrypting_WhatsApp_Database.md)
+
 ### Ubuntu desktop environments
  * [Setup Ubuntu minimal desktop environments](src/desktops/setup_ubuntu_desktops.md)
