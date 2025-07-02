@@ -55,12 +55,12 @@ jobs:
 
           rm -rf kbook
           echo "Build KBook ..."
-          kbook ./src
+          kbook "HowTo!" "src" "https://github.com/kribakarans/howto/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./
+          path: ./src
 
   # Deployment job
   deploy:

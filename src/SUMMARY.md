@@ -1,6 +1,3 @@
-# Summary
-
-[Introduction](INDEX.md)
 
 # Bootrepair
 
