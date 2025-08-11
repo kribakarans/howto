@@ -37,7 +37,6 @@
 # OpenWrt
 
 - [OpenWrt Builder](openwrt/OpenWrt.md)
-- [PrplWrt Builder](openwrt/PrplWrt.md)
 
 # Redmine
 
