@@ -33,5 +33,6 @@ The repository is built to provide clear instructions on how to set up the follo
 1. [Decrypting WhatsApp Database](kbook.html?file=whatsapp%2FDecrypting_WhatsApp_Database.md)
 
 ### Ubuntu desktop environments
-* [Setup Ubuntu minimal desktop environments](kbook.html?file=desktops%2Fsetup_ubuntu_desktops.md)
-
+- [Ubuntu Desktop Variants](kbook.html?file=desktops%2Fubuntu_desktops.md)
+- [Setup Ubuntu minimal desktop environments](kbook.html?file=desktops%2Fsetup_ubuntu_desktops.md)
+- [Ubuntu Desktop Tweaks](kbook.html?file=desktops%2Fubuntu_desktop_tweaks.md)

@@ -25,4 +25,4 @@
 	sudo usermod -aG vboxsf -- "$USER"  # Add user to vbosf group
 	cat /etc/group | grep "$USER"       # Validate user group
 
-More on [Window Managers for X](http://xwinman.org/blackbox.php)
+More on [Window Managers for X](https://xteddy.org/xwinman/)

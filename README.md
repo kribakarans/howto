@@ -37,4 +37,6 @@ The repository is built to provide clear instructions on how to set up the follo
  1. [Decrypting WhatsApp Database](src/whatsapp/Decrypting_WhatsApp_Database.md)
 
 ### Ubuntu desktop environments
- * [Setup Ubuntu minimal desktop environments](src/desktops/setup_ubuntu_desktops.md)
+ - [Ubuntu Desktop Variants](src/desktops/ubuntu_desktops.md)
+ - [Setup Ubuntu minimal desktop environments](src/desktops/setup_ubuntu_desktops.md)
+ - [Ubuntu Desktop Tweaks](src/desktops/ubuntu_desktop_tweaks.md)
