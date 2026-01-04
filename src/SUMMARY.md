@@ -45,6 +45,14 @@
 
 - [Redmine with SQLite3](redmine/install_redmine_with_sqlite3.md)
 
+# VNC Server
+
+- [Gnome Flashback on Ubuntu Server](vnc/gnome_flashback_on_ubuntu_server.md)
+- [Gnome Flashback on Ubuntu Desktop](vnc/gnome_flashback_on_ubuntu_desktop.md)
+- [Ubuntu Session on Ubuntu Desktop](vnc/ubuntu_session_on_ubuntu_desktop.md)
+- [Xfce4 on Ubuntu Server](vnc/xfce4_on_ubuntu_server.md)
+- [Openbox on Ubuntu Server](vnc/openbox_on_ubuntu_server.md)
+
 # WhatsApp
 
 - [Decrypting WhatsApp Database](whatsapp/Decrypting_WhatsApp_Database.md)

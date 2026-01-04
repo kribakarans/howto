@@ -19,6 +19,14 @@ The repository is built to provide clear instructions on how to set up the follo
 ### Setup Redmine
 * [Redmine with SQLite3](kbook.html?file=redmine%2Finstall_redmine_with_sqlite3.md)
 
+### VNC Servers
+
+1. [Gnome Flashback on Ubuntu Server](kbook.html?file=vnc%2Fgnome_flashback_on_ubuntu_server.md)
+2. [Gnome Flashback on Ubuntu Desktop](kbook.html?file=vnc%2Fgnome_flashback_on_ubuntu_desktop.md)
+3. [Ubuntu Session on Ubuntu Desktop](kbook.html?file=vnc%2Fubuntu_session_on_ubuntu_desktop.md)
+4. [Xfce4 on Ubuntu Server](kbook.html?file=vnc%2Fxfce4_on_ubuntu_server.md)
+5. [Openbox on Ubuntu Server](kbook.html?file=vnc%2Fopenbox_on_ubuntu_server.md)
+
 ### Web based source code browsers
 1. [Codebrowser](kbook.html?file=codebrowser%2Fsetup_codebrowser.md)
 2. [Doxygen](kbook.html?file=codebrowser%2Fdoxygen.cfg)

@@ -23,6 +23,14 @@ The repository is built to provide clear instructions on how to set up the follo
 ### Setup Redmine
  * [Redmine with SQLite3](src/redmine/install_redmine_with_sqlite3.md)
 
+### VNC Servers
+
+1. [Gnome Flashback on Ubuntu Server](src/vnc/gnome_flashback_on_ubuntu_server.md)
+2. [Gnome Flashback on Ubuntu Desktop](src/vnc/gnome_flashback_on_ubuntu_desktop.md)
+3. [Ubuntu Session on Ubuntu Desktop](src/vnc/ubuntu_session_on_ubuntu_desktop.md)
+4. [Xfce4 on Ubuntu Server](src/vnc/xfce4_on_ubuntu_server.md)
+5. [Openbox on Ubuntu Server](src/vnc/openbox_on_ubuntu_server.md)
+
 ### Web based source code browsers
  1. [Codebrowser](src/codebrowser/setup_codebrowser.md)
  2. [Doxygen](src/codebrowser/doxygen.cfg)
