@@ -26,6 +26,7 @@
 - [Ubuntu Desktop](desktops/setup_ubuntu_desktops.md)
 - [Ubuntu Desktop Variants](desktops/ubuntu_desktops.md)
 - [Ubuntu Desktop Tweaks](desktops/ubuntu_desktop_tweaks.md)
+- [Trim GNOME Services](desktops/trim_gnome_services.md)
 
 # Docker
 

@@ -36,3 +36,4 @@ The repository is built to provide clear instructions on how to set up the follo
 - [Ubuntu Desktop Variants](kbook.html?file=desktops%2Fubuntu_desktops.md)
 - [Setup Ubuntu minimal desktop environments](kbook.html?file=desktops%2Fsetup_ubuntu_desktops.md)
 - [Ubuntu Desktop Tweaks](kbook.html?file=desktops%2Fubuntu_desktop_tweaks.md)
+- [Trim GNOME Services](kbook.html?file=desktops%2Ftrim_gnome_services.md)

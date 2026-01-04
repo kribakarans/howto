@@ -1,4 +1,4 @@
-# How to set things up:
+# How to set things up
 
 The repository is built to provide clear instructions on how to set up the following items.
 
@@ -40,3 +40,4 @@ The repository is built to provide clear instructions on how to set up the follo
  - [Ubuntu Desktop Variants](src/desktops/ubuntu_desktops.md)
  - [Setup Ubuntu minimal desktop environments](src/desktops/setup_ubuntu_desktops.md)
  - [Ubuntu Desktop Tweaks](src/desktops/ubuntu_desktop_tweaks.md)
+ - [Trim GNOME Services](src/desktops/trim_gnome_services.md)
